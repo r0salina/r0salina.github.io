@@ -1,0 +1,10 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    font-size: 30px;
+    background-image: linear-gradient(lightgreen, white);
+}
+
+h1 {
+    font-size: 75px;
+}
